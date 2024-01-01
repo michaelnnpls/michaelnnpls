@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaelnnpls
 - 👀 I’m interested in Data Science, Football (aka Soccer), Sustainability and everything in between
-- 🌱 I’m currently learning Sports Analytics
+- 🌱 I’m currently working in Sports Analytics
 - 💞️ I’m looking to collaborate on anything really
 
 <!---
